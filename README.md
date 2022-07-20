@@ -4,3 +4,4 @@
 ## Используемые библиотеки
  - django
  - bootstrap4
+ - herocu
